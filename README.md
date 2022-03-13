@@ -14,7 +14,7 @@ The **TIC-TAC-TOE GAME** is designed to perform the following tasks:
 2) Play the game
 3) Display record of a player
 4) Display record of all players rank wise
-5) Modify a player profile(Change your Password)
+5) Modify a player profile (Change your Password)
 6) Delete a player profile
 
 Thus, by this project the user can play his/her favourite game with ease and check his score and rank at any moment.
@@ -22,4 +22,4 @@ Thus, by this project the user can play his/her favourite game with ease and che
 # Data Files Used
 
 1) project.txt: Contains the details of all the members.
-2) temp.txt: Used to store data from the main file (“project.txt”) for temporary basis many times throughout the project.
+2) temp.txt: Used to store data from project.txt for temporary basis many times throughout the project.
