@@ -21,5 +21,5 @@ Thus, by this project the user can play his/her favourite game with ease and che
 
 # Data Files Used
 
-1) project.txt: Contains the details of all the members.
-2) temp.txt: Used to store data from project.txt for temporary basis many times throughout the project.
+1) **project.txt**: Contains the details of all the members.
+2) **temp.txt**: Used to store data from project.txt for temporary basis many times throughout the project.
